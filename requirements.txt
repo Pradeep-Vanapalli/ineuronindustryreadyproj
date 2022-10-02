@@ -2,3 +2,4 @@ Numpy
 Pandas
 sklearn
 python
+scipy
